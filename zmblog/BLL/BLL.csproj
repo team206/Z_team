@@ -110,7 +110,6 @@
     <Compile Include="shoucangInfo.cs" />
     <Compile Include="sixin.cs" />
     <Compile Include="skinInfo.cs" />
-    <Compile Include="sysdiagrams.cs" />
     <Compile Include="userInfo.cs" />
     <Compile Include="webInfo.cs" />
     <Compile Include="xinxianshi.cs" />

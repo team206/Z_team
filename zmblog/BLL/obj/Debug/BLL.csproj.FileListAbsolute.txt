@@ -1,1 +1,14 @@
 E:\学习\实训HTML\Z_Team\zmblog\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\zmblog.BLL.dll
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\zmblog.BLL.pdb
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\Maticsoft.Common.dll
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\zmblog.DAL.dll
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\zmblog.Model.dll
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\zmblog.DBUtility.dll
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\MySql.Data.dll
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\System.Data.SQLite.dll
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\zmblog.DAL.pdb
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\zmblog.Model.pdb
+E:\学习\实训HTML\Z_Team\zmblog\BLL\bin\Debug\zmblog.DBUtility.pdb
+E:\学习\实训HTML\Z_Team\zmblog\BLL\obj\Debug\zmblog.BLL.dll
+E:\学习\实训HTML\Z_Team\zmblog\BLL\obj\Debug\zmblog.BLL.pdb
