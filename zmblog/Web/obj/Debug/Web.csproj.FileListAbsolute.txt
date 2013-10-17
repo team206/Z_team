@@ -1,0 +1,6 @@
+E:\学习\实训HTML\Z_Team\zmblog\Web\obj\Debug\ResolveAssemblyReference.cache
+E:\学习\实训HTML\Z_Team\zmblog\Web\obj\Debug\zmblog.Web.Controls.CheckRight.resources
+E:\学习\实训HTML\Z_Team\zmblog\Web\obj\Debug\zmblog.Web.Controls.CopyRight1.resources
+E:\学习\实训HTML\Z_Team\zmblog\Web\obj\Debug\zmblog.Web.Global.resources
+E:\学习\实训HTML\Z_Team\zmblog\Web\obj\Debug\GenerateResource.read.1.tlog
+E:\学习\实训HTML\Z_Team\zmblog\Web\obj\Debug\GenerateResource.write.1.tlog

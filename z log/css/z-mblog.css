@@ -1,0 +1,99 @@
+*{margin: 0;padding: 0;}
+img{border: 0}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+
+
+#nologin{width: 1349px;height: 749px;margin: auto;background-color: rgb(115, 207, 241);}
+#header{width: 900px;height: 40px;padding: 10px 0 10px 0;margin:auto;}
+#main{width: 900px;height: 689px;margin: auto;background-color: rgb(250, 250, 250);}
+
+
+
+#logo{width: 130px; height:40px;}
+#lolo{width: 130px;height: 40px;}
+
+
+
+#top{width: 900px;height: 200px;background-image: url("images/2.jpg");}
+#info{width: 900px;height: 379px;}
+#leftbox{width: 566px;height: 379px;float: left;}
+#slogan{width: 536px;height: 35px;padding: 12px 0 13px 30px;font-size: 24px;color: rgb(51, 51, 51);font-family: "microsoft yahei";font-weight: 400;font-style: italic;}
+.btn{width: 143px;height: 31px;display: block;float: right;color: rgb(255, 255, 255);font-size: 22px;font-style: normal;background-color: rgb(230, 65, 65);text-align: center;border-radius: 3px;margin: 0 25px 0 0;}
+#video{width: 566px;height: 318px;}
+#weipin{width: 544px;height: 34px;margin: auto;color: rgb(85, 85, 85);font-size: 16px;font-family: Microsoft Yahei,Simsun,Tahoma;}
+#photo{width: 544px;height: 264px;margin: auto;}
+#photo1{width: 144px;height: 260px;float: left;margin: 4px 4px 0 0;}
+#photo2{width: 128px;height: 128px;float: left;margin: 4px 4px 0 0;}
+#photo3{width: 128px;height: 128px;float: left;margin: 4px 4px 0 0;}
+#photo4{width: 128px;height: 128px;float: left;margin: 4px 4px 0 0;}
+#photo5{width: 260px;height: 128px;float: left;margin: 4px 4px 0 0;}
+#photo6{width: 128px;height: 128px;float: left;margin: 4px 4px 0 0;}
+#photo11{width: 144px;height: 260px;}
+#photo22{width: 128px;height: 128px;}
+#photo33{width: 128px;height: 128px;}
+#photo44{width: 128px;height: 128px;}
+#photo55{width: 260px;height: 128px;}
+#photo66{width: 128px;height: 128px;}
+
+
+
+
+
+
+
+#loginbox{width: 330px;height: 313px;float: right;background-image: url("images/9.png");background-position: -8px -28px; background-repeat: no-repeat;}
+#loginform{width: 250px;height: 173px;margin: 48px auto 0 auto;padding: 0 0 0 36px;}
+.infolist{width: 250px;height: 30px;margin: 0 0 15px 0;}
+.username{width: 165px;height: 28px;padding: 0 4px 0 39px;border: 1px solid #ccc;background-image: url("images/3.png");background-position: 0px 0px;border-radius: 2px;}
+.username2{width: 165px;height: 28px;padding: 0 4px 0 39px;border: 1px solid #ccc;background-image: url("images/3.png");background-position: 0px -50px;border-radius: 2px;}
+.youinput{width: 165px;height: 28px;padding: 0 5px 0 0;border: none;background-image: url("images/4.bmp");background-repeat: no-repeat;background-position: -1px 2px;}
+.youinput2{width: 165px;height: 28px;padding: 0 5px 0 0;border: none;background-image: url("images/5.bmp");background-repeat: no-repeat;background-position: 0 4px;}
+#xiaci{width: 250px;height: 16px;margin: -6px 0 13px 0;}
+#loginbtn{width: 250px;height: 60px;margin: 0 0 10px 0;}
+#right{width: 48px;height: 14px;margin: 0 40px 0 0;float: right;font-size: 12px;color: rgb(10, 140, 210);}
+#right:hover{text-decoration: underline;color: rgb(10, 140, 210);}
+#denglu{width: 100px;height: 14px;font-size: 12px;color: black;}
+.deng{width:250px;height: 30px; color: rgb(128, 128, 128);font-size: 13px;line-height: 30px;}
+.btndeng{background-repeat: no-repeat;}
+#zhuce:hover{text-decoration: underline;}
+
+
+
+#taobao{width:211px;height: 48px;padding: 6px 0 0 0;margin: auto;background-image: url("images/7.png"); }
+#taobao2{width: 211px;height: 48px;}
+#taobao3{width: 212px;height: 20px;background-image: url("images/8.png");background-repeat: no-repeat;margin: 6px 0 0 0;}
+#bao{font-size: 12px;margin: 0 0 0 18px;}
+#bao:hover{text-decoration: underline;color: #f60;}
+
+
+#tianyi{width: 271px;height: 20px;float: right;}
+.yi{width: 43px;height: 16px;margin: 0 10px 4px 0;float: left;}
+#tu{width: 16px;height: 16px;margin: 0 3px 0 0;	background-image: url("images/3.png");background-position: -20px -100px;float: left;}
+#tu2{width: 16px;height: 16px;margin: 0 3px 0 0;	background-image: url("images/3.png");background-position: -40px -100px;float: left;}
+#tu3{width: 16px;height: 16px;margin: 0 3px 0 0;	background-image: url("images/3.png");background-position: -60px -100px;float: left;}
+.zi{font-size: 12px;color: rgb(51, 51, 51);float: right;}
+.zi:hover{text-decoration: underline;color:rgb(10, 140, 210); }
+
+
+#footer{width: 840px;height: 63px;padding: 15px 30px 30px 30px;}
+#system{width: 840px;height: 21px;}
+.ping{width: 92px;height: 14px;margin: 0 0 0 20px;float: left;}
+#pingtu{width: 20px;height: 21px;margin: 0 2px 0 0;background-image: url("images/3.png");background-position:0 -120px;float: left; }
+#pingtu2{width: 20px;height: 21px;margin: 0 2px 0 0;background-image: url("images/3.png");background-position:-20px -120px;float: left; }
+#pingtu3{width: 20px;height: 21px;margin: 0 2px 0 0;background-image: url("images/3.png");background-position:-40px -120px;float: left; }
+#pingtu4{width: 20px;height: 21px;margin: 0 2px 0 0;background-image: url("images/3.png");background-position:-60px -120px;float: left; }
+.pad{font-size: 12px;color: rgb(51, 51, 51);}
+#uu{padding: 0 0 0 170px;}
+.pad:hover{text-decoration: underline;color:rgb(10, 140, 210);  }
+
+
+#help{width: 840px;height: 19px;margin: 4px 0 5px 0;color: rgb(128, 128, 128);text-align: center;}
+.baise{font-size: 12px;color: rgb(128, 128, 128);}
+.baise:hover{text-decoration: underline;color:rgb(10, 140, 210); }
+
+
+#txt{width: 840px;height: 14px;color: rgb(128, 128, 128);font-size: 12px; }
+
+
+#kongkong{width: 1369px;height: 35px;background-color: rgb(115, 207, 241);}
